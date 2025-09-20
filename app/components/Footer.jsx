@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 relative">
                 <img 
-                  src="/Images/icon.png" 
+                  src="/images/icon.png" 
                   alt="E-Comm Logo" 
                   className="object-contain w-full h-full"
                 />
